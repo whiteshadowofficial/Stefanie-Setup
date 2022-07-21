@@ -1,10 +1,10 @@
 ## Selecte your lanuage.
 
-[![Website](https://img.shields.io/badge/Select-Sinhala-white.svg)](https://whiteshadowofficial.github.io/body-html-1/)
+[![Website](https://img.shields.io/badge/Select-Sinhala-white.svg)](https://github.com/whiteshadowofficial/Stefanie-Setup/blob/main/sinhala.md)
 
 > View in Github...👇
 
-[![Github](https://img.shields.io/badge/Select-English-white.svg)](https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD)
+[![Github](https://img.shields.io/badge/Select-English-white.svg)](https://github.com/whiteshadowofficial/Stefanie-Setup/blob/main/sinhala.md)
 
 
 
