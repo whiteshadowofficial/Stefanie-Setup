@@ -48,7 +48,7 @@ Stefanie-WhatsApp-Bot-MD Public release 🎓
 
 📚හතර වෙනුවට බොට්ව Fork කරන්න.
 
-❑ [Click To Fork Jessi Bot](https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2/fork)
+❑ [Click To Fork Jessi Bot](https://github.com/whiteshadowofficial/STEFANIE-BOT-MD/fork)
 
 ❑ [Watch video](https://youtu.be/iMzUrRjQfGE)
 
@@ -72,14 +72,14 @@ Stefanie-WhatsApp-Bot-MD Public release 🎓
 
 ❑ 03.ඒ copy කරගත්තු link එකේ අගට තියන [ = ] ලකුනට පිටුපසින් ඔයාගෙ repo එකේ link එක paste කරගන්න.
 
-   e.g :- ```heroku.com/deploy?template=https://github.com/whiteshadowofficial/Jessi-Support```
+   e.g :- ```heroku.com/deploy?template=https://github.com/whiteshadowofficial/STEFANIE-BOT-MD```
 
 ❑ 04.මීලගට ඒ සම්පූර්ණ link එකම copy කරගන්න.
 
 ❑ 05.දැන් ඒ link එක chrome එකෙ paste කරලා.Bot ව deploy කරන්න.
 
 
-.bcimage තමන්ගෙම කියල බොට් කෙනෙක් හදාගන්න කැමතිද...?
+
 
  Video link...👇
 
